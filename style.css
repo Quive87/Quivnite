@@ -90,9 +90,18 @@ div .xrism{
 
 .xrismi{
   border-radius: 36px;
-  background: url(xrism.png);
+  background: url(pratya.jpg);
   background-position: left top;
   background-repeat: repeat;
   padding: 20px;
   width: 400px;
+}
+
+.ssmsucks{
+  border-radius: 36px;
+  background: url(mam.jpg);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 200px;
 }
